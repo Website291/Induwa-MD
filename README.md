@@ -5,5 +5,9 @@
 <p align = center>   <img src="https://i.ibb.co/jyVLMdD/infinitywabot.jpg"</p>
 <p align="center">
 
+# How To Connect Whatsapp
+
+<p align="center">
+<a href='https://pair-code-production.up.railway.app/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 
