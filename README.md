@@ -10,6 +10,17 @@
 <p align="center">
 <a href='https://pair-code-production.up.railway.app/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=50/p></a>
 
+## session id ලබාගැනීමෙන් පසුව එහි ඇති (asitha md =) මෙ කොටසම කපා ඉවත් කරන්න නැතහොත් දෝශ මතුවීමට හැක😥❤️‍🔥
+
+# conact me❤️‍🔥🌝
+
+0763761192 my personal number
+
+0789613424 facke number 
+
+# දෙවෙනියට තියෙන නම්බරේට දාන්න ඒකට දානැ මැසේජ් විතරයි බලන්නෙ 🌝💗
+
+
 
 # Deployment Method
 
