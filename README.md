@@ -11,3 +11,9 @@
 <a href='https://pair-code-production.up.railway.app/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=50/p></a>
 
 
+# Deployment Method
+
+<p align="center">
+  <a href='https://github.com/SahasTech22/SAHAS-MD/blob/main/WORKFLOW.md' target="_blank">
+    <img alt='Workflow' src='https://img.shields.io/badge/-WorkFlow%20Deploy-blue?style=for-the-badge&logo=github&logoColor=white' width="150" height="28"/>
+  </a>
